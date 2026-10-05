@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\implmentation\\bookcustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\implmentation\\bookcustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\implmentation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\implmentation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\implmentation\\categorycustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\implmentation\\categorycustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\implmentation\\membercustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\implmentation\\membercustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\implmentation\\borrowingcustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\implmentation\\borrowingcustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\interfaces\\iborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\interfaces\\iborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\interfaces\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\interfaces\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\repo\\implmentation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repo\\implmentation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|c:\\users\\basel.muhammed\\desktop\\library-system\\library-system\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A945CB-DA84-4E5D-93EC-8141F1478D4B}|Library-System\\Library-System.csproj|solutionrelative:library-system\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Library-System\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Library-System\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:18:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Implmentation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\UnitOfWork.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Implmentation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T12:16:45.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Library-System\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Library-System\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:50:17.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Library-System\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "Library-System\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:49:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library-System\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library-System\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:47:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library-System\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Models\\Book.cs",
+              "RelativeToolTip": "Library-System\\Models\\Book.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:57:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\IBook.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Interfaces\\IBook.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\IBook.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Interfaces\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:36:19.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\BookCustomRepo.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Implmentation\\BookCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\BookCustomRepo.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Implmentation\\BookCustomRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:37:18.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Program.cs",
+              "RelativeDocumentMoniker": "Library-System\\Program.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Program.cs",
+              "RelativeToolTip": "Library-System\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:19:39.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\MemberCustomRepo.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Implmentation\\MemberCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\MemberCustomRepo.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Implmentation\\MemberCustomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:38:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BorrowingCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\BorrowingCustomRepo.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Implmentation\\BorrowingCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\BorrowingCustomRepo.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Implmentation\\BorrowingCustomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:39:17.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\CategoryCustomRepo.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Implmentation\\CategoryCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\CategoryCustomRepo.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Implmentation\\CategoryCustomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:37:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBorrowing.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\IBorrowing.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Interfaces\\IBorrowing.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\IBorrowing.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Interfaces\\IBorrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:36:48.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMember.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\IMember.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Interfaces\\IMember.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\IMember.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Interfaces\\IMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:34:51.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\ICategory.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Interfaces\\ICategory.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\ICategory.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Interfaces\\ICategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:33:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "Library-System\\Models\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Models\\Borrowing.cs",
+              "RelativeToolTip": "Library-System\\Models\\Borrowing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:58:17.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Implmentation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Implmentation\\GenericRepo.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Implmentation\\GenericRepo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:26:33.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "Library-System\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:24:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Library-System\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Models\\Member.cs",
+              "RelativeToolTip": "Library-System\\Models\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:58:05.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Library-System\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Library-System\\Library-System\\Models\\Category.cs",
+              "RelativeToolTip": "Library-System\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:57:34.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
